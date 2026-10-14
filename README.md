@@ -66,8 +66,15 @@ git branch -M main
 git remote add origin [https://github.com/Shekinah2807/deploy_agent_Shekinah2807.git](https://github.com/Shekinah2807/deploy_agent_Shekinah2807.git)
 git push -u origin main
 
+## Demo Video
+
+4-minute project walk-through and terminal demonstration:
+
+```text
+[https://drive.google.com/file/d/1scmNSd9iwD0e1eIbS7nI7Ah6FsvuBa_N/view?usp=sharing](https://drive.google.com/file/d/1scmNSd9iwD0e1eIbS7nI7Ah6FsvuBa_N/view?usp=sharing)
+
 Known Limitations
 
 Student roster CSV files must strictly follow the required column header structure (Email, Names, Attendance Count, Absence Count).
 
-Log timestamps rely on the host system's system clock.
+Log timestamps rely on the host system's system clock
