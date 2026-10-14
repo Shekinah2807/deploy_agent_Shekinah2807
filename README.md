@@ -9,6 +9,7 @@ It also includes built-in signal handling so that if a setup gets interrupted mi
 Grab the repository from GitHub:
 
 git clone [https://github.com/Shekinah2807/deploy_agent_Shekinah2807.git](https://github.com/Shekinah2807/deploy_agent_Shekinah2807.git)
+
 cd deploy_agent_Shekinah2807
 
 Make the agent executable and start the menu:
@@ -70,11 +71,9 @@ git push -u origin main
 
 4-minute project walk-through and terminal demonstration:
 
-```text
-[https://drive.google.com/file/d/1scmNSd9iwD0e1eIbS7nI7Ah6FsvuBa_N/view?usp=sharing](https://drive.google.com/file/d/1scmNSd9iwD0e1eIbS7nI7Ah6FsvuBa_N/view?usp=sharing)
+[Watch Demo Video on Google Drive](https://drive.google.com/file/d/1scmNSd9iwD0e1eIbS7nI7Ah6FsvuBa_N/view?usp=sharing)
 
 Known Limitations
 
 Student roster CSV files must strictly follow the required column header structure (Email, Names, Attendance Count, Absence Count).
 
-Log timestamps rely on the host system's system clock
